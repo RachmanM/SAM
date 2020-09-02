@@ -1,0 +1,4 @@
+_PackageInt/
+Packages/
+*.painter_lock
+lock
